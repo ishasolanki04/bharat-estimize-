@@ -98,7 +98,7 @@ docker pull bharatestimize/bharatestimize:latest
 docker run -p 8000:8000 bharatestimize/bharatestimize
 ```
 
-## 📋 Requirements
+##  Requirements
 
 ### Core Dependencies
 
@@ -156,7 +156,7 @@ flake8>=5.0.0
 mypy>=0.991
 ```
 
-## 🛠️ Configuration
+## Configuration
 
 ### Environment Variables
 
@@ -218,7 +218,7 @@ sectors:
     revenue_threshold: 0.25
 ```
 
-## 📊 Examples
+## Examples
 
 ### Basic Signal Generation
 
