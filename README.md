@@ -1,19 +1,19 @@
 # BharatEstimize
 
-<div align="center">
+
 
 AI-powered consensus trading strategy for Indian equity markets
 
 
 ## Overview
 
-BharatEstimize is a sophisticated algorithmic trading system that identifies low-risk earnings opportunities in Indian stocks by analyzing analyst consensus patterns. Using advanced data science techniques adapted specifically for emerging market conditions, it generates high-probability trading signals with **67%+ success rates**.
+BharatEstimize is a sophisticated algorithmic trading system that identifies low-risk earnings opportunities in Indian stocks by analyzing analyst consensus patterns. Using advanced data science techniques adapted specifically for emerging market conditions, it generates high-probability trading signals with *67%+ success rates**.
 
 ### Core Value Proposition
-- Smart Signal Generation**: Identifies stocks with low analyst disagreement (4-35% consensus ratios)
-- Indian Market Optimized**: Handles limited analyst coverage and volatile data quality
-- Production Ready**: Real-time monitoring, broker integration, comprehensive risk management
-- **Proven Results**: 8+ monthly signals from top Indian stocks (HDFC, TCS, Infosys, SBI)
+- Smart Signal Generation: Identifies stocks with low analyst disagreement (4-35% consensus ratios)
+- Indian Market Optimized: Handles limited analyst coverage and volatile data quality
+- Production Ready: Real-time monitoring, broker integration, comprehensive risk management
+- Proven Results: 8+ monthly signals from top Indian stocks (HDFC, TCS, Infosys, SBI)
 
 ## Features
 
@@ -534,16 +534,6 @@ pre-commit install
 # Run tests
 pytest
 ```
-
-
-
-### Code Style
-
-We use:
-- **Black** for code formatting
-- **Flake8** for linting
-- **MyPy** for type checking
-- **isort** for import sorting
 
 ```bash
 # Format code
